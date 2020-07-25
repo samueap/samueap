@@ -1,4 +1,12 @@
-### Hi there 👋
+### <h2>Hello World 👋</h2>
+
+<p><h4>My name is Samuel Augusto.
+  
+</br>🌱 Currently I've been a software development student at Trybe</h4></p>
+
+### Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-augusto/)](https://www.linkedin.com/in/samuel-augusto/) **|** [![Email Badge](https://img.shields.io/badge/-Email-color=black?style=social&logo=Gmail&logoColor=red&link=samueap@gmail.com/)](samueap@gmail.com/)
 
 <!--
 **samueap/samueap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
