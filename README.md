@@ -23,6 +23,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Samuel_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-augusto/)](https://www.linkedin.com/in/samuel-augusto/) **|** [![Email Badge](https://img.shields.io/badge/-Email-color=black?style=social&logo=Gmail&logoColor=red&link=samueap@gmail.com/)](samueap@gmail.com/)
 
+<p>&nbsp;
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samueap&count_private=true&show_icons=true&hide_border=true" alt="samueap" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueap&langs_count=8&layout=compact&theme=graywhite&title_color=268bd2" alt="samueap" <p/>
+
 <!--
 **samueap/samueap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
